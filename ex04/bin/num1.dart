@@ -1,4 +1,4 @@
-// Numéro 1 adapté avec l'exemple de Dzenanr ''On dart_exxamples''
+// Numéro 1 adapté avec l'exemple de Dzenanr ''On dart_examples''
 
 String fibo(int t)  {
 int x = 0, y = 1, z = 1, n = 1;
