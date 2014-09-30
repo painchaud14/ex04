@@ -1,0 +1,25 @@
+ex04
+
+15/20
+
+-1 structure des répertoires n'est pas correcte
+
+ex04
+  ex04  
+-->
+ex04
+
+ou est .gitignore?
+
+-1 utiliser le formatage correct 
+voir Dart Style Guide
+
+2., 3., 4. et 5.
+-2 où sont des fonctions en plus de main?
+
+-1 3. ans, mois, jours
+exemple: 21 ans, 3 mois, 23 jours
+
+4.
+II --> ii
+
